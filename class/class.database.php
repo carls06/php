@@ -2,7 +2,7 @@
 class database {
   // Atributos
   private $a_servername = "localhost";
-  private $a_username = "root";
+  private $a_username = "root@localhost";
   private $a_password = "";
   private $a_database = "db_santacatarina";
   private $a_connection;
