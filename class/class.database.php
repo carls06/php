@@ -4,7 +4,7 @@ class database {
   private $a_servername = "localhost";
   private $a_username = "root";
   private $a_password = "";
-  private $a_database = "db_farmacia";
+  private $a_database = "db_santacatarina";
   private $a_connection;
 
   //Constructor de objeto
